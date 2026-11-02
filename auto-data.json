@@ -1,14 +1,418 @@
 {
   "schema": 1,
-  "status": "pending",
-  "lastSuccessAt": null,
-  "lastAttemptAt": null,
-  "games": [],
+  "status": "ok",
+  "trackedCount": 20,
+  "lastAttemptAt": "2026-11-02T03:32:35Z",
+  "lastSuccessAt": "2026-11-02T03:32:35Z",
+  "source": "Roblox public games API, sampled at collection time; not a daily average",
+  "games": [
+    {
+      "id": "my-small-business",
+      "name": "My Small Business",
+      "category": "Business & making",
+      "placeId": 136468592163527,
+      "universeId": 10771507608,
+      "gameUrl": "https://www.roblox.com/games/136468592163527",
+      "playing": 15789,
+      "visits": 16406759,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 15789,
+          "visits": 16406759
+        }
+      ]
+    },
+    {
+      "id": "steal-a-pet-and-ride-it",
+      "name": "Steal A Pet And Ride It!",
+      "category": "Collection & evolution",
+      "placeId": 95168737547508,
+      "universeId": 10769315427,
+      "gameUrl": "https://www.roblox.com/games/95168737547508",
+      "playing": 29582,
+      "visits": 17276178,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 29582,
+          "visits": 17276178
+        }
+      ]
+    },
+    {
+      "id": "night-rider",
+      "name": "Night Rider",
+      "category": "Vehicles & driving",
+      "placeId": 71335623205843,
+      "universeId": 10770284142,
+      "gameUrl": "https://www.roblox.com/games/71335623205843",
+      "playing": 7883,
+      "visits": 8800270,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 7883,
+          "visits": 8800270
+        }
+      ]
+    },
+    {
+      "id": "1-spider-arm",
+      "name": "+1 Spider Arm",
+      "category": "Incremental & discovery",
+      "placeId": 117734411290994,
+      "universeId": 10771997908,
+      "gameUrl": "https://www.roblox.com/games/117734411290994",
+      "playing": 22580,
+      "visits": 16784424,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 22580,
+          "visits": 16784424
+        }
+      ]
+    },
+    {
+      "id": "cook-the-chicken-by-slapping-it",
+      "name": "Cook the Chicken (by slapping it)",
+      "category": "Business & making",
+      "placeId": 82146707127797,
+      "universeId": 10769621465,
+      "gameUrl": "https://www.roblox.com/games/82146707127797",
+      "playing": 6375,
+      "visits": 9656385,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 6375,
+          "visits": 9656385
+        }
+      ]
+    },
+    {
+      "id": "it-hears-the-water",
+      "name": "It Hears The Water",
+      "category": "Co-op & social",
+      "placeId": 91673151576922,
+      "universeId": 10770879065,
+      "gameUrl": "https://www.roblox.com/games/91673151576922",
+      "playing": 3152,
+      "visits": 16657126,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 3152,
+          "visits": 16657126
+        }
+      ]
+    },
+    {
+      "id": "what-if-disasters",
+      "name": "What If Disasters",
+      "category": "Co-op & social",
+      "placeId": 109440485612336,
+      "universeId": 10769484703,
+      "gameUrl": "https://www.roblox.com/games/109440485612336",
+      "playing": 13878,
+      "visits": 15696771,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 13878,
+          "visits": 15696771
+        }
+      ]
+    },
+    {
+      "id": "make-the-logo",
+      "name": "Make The Logo!",
+      "category": "Creative & sharing",
+      "placeId": 112232726743887,
+      "universeId": 10768891670,
+      "gameUrl": "https://www.roblox.com/games/112232726743887",
+      "playing": 4499,
+      "visits": 5061371,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 4499,
+          "visits": 5061371
+        }
+      ]
+    },
+    {
+      "id": "fart-together",
+      "name": "Fart Together",
+      "category": "Co-op & social",
+      "placeId": 100047964036957,
+      "universeId": 10770568427,
+      "gameUrl": "https://www.roblox.com/games/100047964036957",
+      "playing": 11313,
+      "visits": 7703345,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 11313,
+          "visits": 7703345
+        }
+      ]
+    },
+    {
+      "id": "bey-rivals",
+      "name": "Bey Rivals",
+      "category": "Collection & evolution",
+      "placeId": 79726149410614,
+      "universeId": 10770254650,
+      "gameUrl": "https://www.roblox.com/games/79726149410614",
+      "playing": 7796,
+      "visits": 8320880,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 7796,
+          "visits": 8320880
+        }
+      ]
+    },
+    {
+      "id": "depth-incremental",
+      "name": "Depth Incremental",
+      "category": "Incremental & discovery",
+      "placeId": 119101118479978,
+      "universeId": 10769835283,
+      "gameUrl": "https://www.roblox.com/games/119101118479978",
+      "playing": 11873,
+      "visits": 3196797,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 11873,
+          "visits": 3196797
+        }
+      ]
+    },
+    {
+      "id": "bug-evolution",
+      "name": "Bug Evolution",
+      "category": "Collection & evolution",
+      "placeId": 70650894743738,
+      "universeId": 10769957062,
+      "gameUrl": "https://www.roblox.com/games/70650894743738",
+      "playing": 18754,
+      "visits": 11131058,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 18754,
+          "visits": 11131058
+        }
+      ]
+    },
+    {
+      "id": "be-a-soccer-manager",
+      "name": "Be a Soccer Manager",
+      "category": "Business & making",
+      "placeId": 83948710348121,
+      "universeId": 10769808534,
+      "gameUrl": "https://www.roblox.com/games/83948710348121",
+      "playing": 4961,
+      "visits": 4655086,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 4961,
+          "visits": 4655086
+        }
+      ]
+    },
+    {
+      "id": "mouse",
+      "name": "MOUSE",
+      "category": "Co-op & social",
+      "placeId": 81688312343760,
+      "universeId": 10769420234,
+      "gameUrl": "https://www.roblox.com/games/81688312343760",
+      "playing": 7067,
+      "visits": 6289903,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 7067,
+          "visits": 6289903
+        }
+      ]
+    },
+    {
+      "id": "prison-dodgeball",
+      "name": "Prison Dodgeball",
+      "category": "Co-op & social",
+      "placeId": 127270254210112,
+      "universeId": 10378493761,
+      "gameUrl": "https://www.roblox.com/games/127270254210112",
+      "playing": 5714,
+      "visits": 4503678,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 5714,
+          "visits": 4503678
+        }
+      ]
+    },
+    {
+      "id": "sell-a-million-sushi",
+      "name": "Sell a Million Sushi",
+      "category": "Business & making",
+      "placeId": 125866884667103,
+      "universeId": 10770628276,
+      "gameUrl": "https://www.roblox.com/games/125866884667103",
+      "playing": 9280,
+      "visits": 3093411,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 9280,
+          "visits": 3093411
+        }
+      ]
+    },
+    {
+      "id": "cut-a-rock",
+      "name": "Cut a Rock",
+      "category": "Incremental & discovery",
+      "placeId": 113742027864370,
+      "universeId": 10766468833,
+      "gameUrl": "https://www.roblox.com/games/113742027864370",
+      "playing": 11507,
+      "visits": 2351290,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 11507,
+          "visits": 2351290
+        }
+      ]
+    },
+    {
+      "id": "clean-the-moon",
+      "name": "Clean the Moon!",
+      "category": "Business & making",
+      "placeId": 76678170614451,
+      "universeId": 10770466814,
+      "gameUrl": "https://www.roblox.com/games/76678170614451",
+      "playing": 10155,
+      "visits": 2970942,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 10155,
+          "visits": 2970942
+        }
+      ]
+    },
+    {
+      "id": "make-viral-candy",
+      "name": "Make Viral Candy!",
+      "category": "Business & making",
+      "placeId": 92696280499166,
+      "universeId": 10771800287,
+      "gameUrl": "https://www.roblox.com/games/92696280499166",
+      "playing": 5476,
+      "visits": 2969273,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 5476,
+          "visits": 2969273
+        }
+      ]
+    },
+    {
+      "id": "make-a-cartoon",
+      "name": "Make a Cartoon!",
+      "category": "Creative & sharing",
+      "placeId": 139611482808453,
+      "universeId": 10770197883,
+      "gameUrl": "https://www.roblox.com/games/139611482808453",
+      "playing": 8367,
+      "visits": 2749045,
+      "sampledAt": "2026-11-02T03:32:35Z",
+      "change7dPercent": null,
+      "changePreviousPercent": null,
+      "history": [
+        {
+          "at": "2026-11-02T03:32:35Z",
+          "playing": 8367,
+          "visits": 2749045
+        }
+      ]
+    }
+  ],
   "analysis": {
-    "headline": "Automatic tracking not started yet",
+    "headline": "20 tracked experiences checked — Steal A Pet And Ride It! leads this snapshot",
     "points": [
-      "After you publish to GitHub, the first scheduled or manual Action will fetch current Roblox player counts.",
-      "The research reports already on this site are historical and remain separate from automatic observations."
+      "Steal A Pet And Ride It! had 29,582 concurrent players at the latest collection time. This is an instantaneous reading, not a daily average.",
+      "Seven-day trend comparisons need at least a week of collection. Early 12-hour snapshots alone cannot establish sustained growth.",
+      "The archived ChatGPT research reports are not automatically imported. This panel uses rules applied to Roblox public API readings."
     ]
   },
   "errors": []

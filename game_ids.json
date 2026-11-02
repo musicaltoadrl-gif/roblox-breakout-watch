@@ -13,11 +13,11 @@
   },
   "1-spider-arm": {
     "placeId": 117734411290994,
-    "universeId": null
+    "universeId": 10771997908
   },
   "cook-the-chicken-by-slapping-it": {
     "placeId": 82146707127797,
-    "universeId": null
+    "universeId": 10769621465
   },
   "it-hears-the-water": {
     "placeId": 91673151576922,
@@ -29,7 +29,7 @@
   },
   "make-the-logo": {
     "placeId": 112232726743887,
-    "universeId": null
+    "universeId": 10768891670
   },
   "fart-together": {
     "placeId": 100047964036957,
@@ -41,7 +41,7 @@
   },
   "depth-incremental": {
     "placeId": 119101118479978,
-    "universeId": null
+    "universeId": 10769835283
   },
   "bug-evolution": {
     "placeId": 70650894743738,
@@ -57,15 +57,15 @@
   },
   "prison-dodgeball": {
     "placeId": 127270254210112,
-    "universeId": null
+    "universeId": 10378493761
   },
   "sell-a-million-sushi": {
     "placeId": 125866884667103,
-    "universeId": null
+    "universeId": 10770628276
   },
   "cut-a-rock": {
     "placeId": 113742027864370,
-    "universeId": null
+    "universeId": 10766468833
   },
   "clean-the-moon": {
     "placeId": 76678170614451,
@@ -73,10 +73,10 @@
   },
   "make-viral-candy": {
     "placeId": 92696280499166,
-    "universeId": null
+    "universeId": 10771800287
   },
   "make-a-cartoon": {
     "placeId": 139611482808453,
-    "universeId": null
+    "universeId": 10770197883
   }
 }
