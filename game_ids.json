@@ -1,0 +1,82 @@
+{
+  "my-small-business": {
+    "placeId": null,
+    "universeId": 10771507608
+  },
+  "steal-a-pet-and-ride-it": {
+    "placeId": null,
+    "universeId": 10769315427
+  },
+  "night-rider": {
+    "placeId": null,
+    "universeId": 10770284142
+  },
+  "1-spider-arm": {
+    "placeId": 117734411290994,
+    "universeId": null
+  },
+  "cook-the-chicken-by-slapping-it": {
+    "placeId": 82146707127797,
+    "universeId": null
+  },
+  "it-hears-the-water": {
+    "placeId": 91673151576922,
+    "universeId": 10770879065
+  },
+  "what-if-disasters": {
+    "placeId": 109440485612336,
+    "universeId": 10769484703
+  },
+  "make-the-logo": {
+    "placeId": 112232726743887,
+    "universeId": null
+  },
+  "fart-together": {
+    "placeId": 100047964036957,
+    "universeId": 10770568427
+  },
+  "bey-rivals": {
+    "placeId": 79726149410614,
+    "universeId": 10770254650
+  },
+  "depth-incremental": {
+    "placeId": 119101118479978,
+    "universeId": null
+  },
+  "bug-evolution": {
+    "placeId": 70650894743738,
+    "universeId": 10769957062
+  },
+  "be-a-soccer-manager": {
+    "placeId": 83948710348121,
+    "universeId": 10769808534
+  },
+  "mouse": {
+    "placeId": 81688312343760,
+    "universeId": 10769420234
+  },
+  "prison-dodgeball": {
+    "placeId": 127270254210112,
+    "universeId": null
+  },
+  "sell-a-million-sushi": {
+    "placeId": 125866884667103,
+    "universeId": null
+  },
+  "cut-a-rock": {
+    "placeId": 113742027864370,
+    "universeId": null
+  },
+  "clean-the-moon": {
+    "placeId": 76678170614451,
+    "universeId": 10770466814
+  },
+  "make-viral-candy": {
+    "placeId": 92696280499166,
+    "universeId": null
+  },
+  "make-a-cartoon": {
+    "placeId": 139611482808453,
+    "universeId": null
+  }
+}

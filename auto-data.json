@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "status": "pending",
+  "lastSuccessAt": null,
+  "lastAttemptAt": null,
+  "games": [],
+  "analysis": {
+    "headline": "Automatic tracking not started yet",
+    "points": [
+      "After you publish to GitHub, the first scheduled or manual Action will fetch current Roblox player counts.",
+      "The research reports already on this site are historical and remain separate from automatic observations."
+    ]
+  },
+  "errors": []
+}

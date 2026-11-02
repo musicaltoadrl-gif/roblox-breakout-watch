@@ -1,0 +1,162 @@
+[
+  {
+    "id": "my-small-business",
+    "name": "My Small Business",
+    "category": "Business & making",
+    "placeId": null,
+    "universeId": 10771507608,
+    "gameUrl": null
+  },
+  {
+    "id": "steal-a-pet-and-ride-it",
+    "name": "Steal A Pet And Ride It!",
+    "category": "Collection & evolution",
+    "placeId": null,
+    "universeId": 10769315427,
+    "gameUrl": null
+  },
+  {
+    "id": "night-rider",
+    "name": "Night Rider",
+    "category": "Vehicles & driving",
+    "placeId": null,
+    "universeId": 10770284142,
+    "gameUrl": null
+  },
+  {
+    "id": "1-spider-arm",
+    "name": "+1 Spider Arm",
+    "category": "Incremental & discovery",
+    "placeId": 117734411290994,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/117734411290994"
+  },
+  {
+    "id": "cook-the-chicken-by-slapping-it",
+    "name": "Cook the Chicken (by slapping it)",
+    "category": "Business & making",
+    "placeId": 82146707127797,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/82146707127797"
+  },
+  {
+    "id": "it-hears-the-water",
+    "name": "It Hears The Water",
+    "category": "Co-op & social",
+    "placeId": 91673151576922,
+    "universeId": 10770879065,
+    "gameUrl": "https://www.roblox.com/games/91673151576922"
+  },
+  {
+    "id": "what-if-disasters",
+    "name": "What If Disasters",
+    "category": "Co-op & social",
+    "placeId": 109440485612336,
+    "universeId": 10769484703,
+    "gameUrl": "https://www.roblox.com/games/109440485612336"
+  },
+  {
+    "id": "make-the-logo",
+    "name": "Make The Logo!",
+    "category": "Creative & sharing",
+    "placeId": 112232726743887,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/112232726743887"
+  },
+  {
+    "id": "fart-together",
+    "name": "Fart Together",
+    "category": "Co-op & social",
+    "placeId": 100047964036957,
+    "universeId": 10770568427,
+    "gameUrl": "https://www.roblox.com/games/100047964036957"
+  },
+  {
+    "id": "bey-rivals",
+    "name": "Bey Rivals",
+    "category": "Collection & evolution",
+    "placeId": 79726149410614,
+    "universeId": 10770254650,
+    "gameUrl": "https://www.roblox.com/games/79726149410614"
+  },
+  {
+    "id": "depth-incremental",
+    "name": "Depth Incremental",
+    "category": "Incremental & discovery",
+    "placeId": 119101118479978,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/119101118479978"
+  },
+  {
+    "id": "bug-evolution",
+    "name": "Bug Evolution",
+    "category": "Collection & evolution",
+    "placeId": 70650894743738,
+    "universeId": 10769957062,
+    "gameUrl": "https://www.roblox.com/games/70650894743738"
+  },
+  {
+    "id": "be-a-soccer-manager",
+    "name": "Be a Soccer Manager",
+    "category": "Business & making",
+    "placeId": 83948710348121,
+    "universeId": 10769808534,
+    "gameUrl": "https://www.roblox.com/games/83948710348121"
+  },
+  {
+    "id": "mouse",
+    "name": "MOUSE",
+    "category": "Co-op & social",
+    "placeId": 81688312343760,
+    "universeId": 10769420234,
+    "gameUrl": "https://www.roblox.com/games/81688312343760"
+  },
+  {
+    "id": "prison-dodgeball",
+    "name": "Prison Dodgeball",
+    "category": "Co-op & social",
+    "placeId": 127270254210112,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/127270254210112"
+  },
+  {
+    "id": "sell-a-million-sushi",
+    "name": "Sell a Million Sushi",
+    "category": "Business & making",
+    "placeId": 125866884667103,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/125866884667103"
+  },
+  {
+    "id": "cut-a-rock",
+    "name": "Cut a Rock",
+    "category": "Incremental & discovery",
+    "placeId": 113742027864370,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/113742027864370"
+  },
+  {
+    "id": "clean-the-moon",
+    "name": "Clean the Moon!",
+    "category": "Business & making",
+    "placeId": 76678170614451,
+    "universeId": 10770466814,
+    "gameUrl": "https://www.roblox.com/games/76678170614451"
+  },
+  {
+    "id": "make-viral-candy",
+    "name": "Make Viral Candy!",
+    "category": "Business & making",
+    "placeId": 92696280499166,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/92696280499166"
+  },
+  {
+    "id": "make-a-cartoon",
+    "name": "Make a Cartoon!",
+    "category": "Creative & sharing",
+    "placeId": 139611482808453,
+    "universeId": null,
+    "gameUrl": "https://www.roblox.com/games/139611482808453"
+  }
+]
