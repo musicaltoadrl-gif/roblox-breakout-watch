@@ -2,8 +2,8 @@
   "schema": 1,
   "status": "partial",
   "trackedCount": 20,
-  "lastAttemptAt": "2026-11-28T01:30:23Z",
-  "lastSuccessAt": "2026-11-28T01:30:23Z",
+  "lastAttemptAt": "2026-11-28T13:16:04Z",
+  "lastSuccessAt": "2026-11-28T13:16:04Z",
   "source": "Roblox public games API, sampled at collection time; not a daily average",
   "games": [
     {
@@ -13,11 +13,11 @@
       "placeId": 136468592163527,
       "universeId": 10771507608,
       "gameUrl": "https://www.roblox.com/games/136468592163527",
-      "playing": 1957,
-      "visits": 34822853,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -55.6,
-      "changePreviousPercent": 16.1,
+      "playing": 2262,
+      "visits": 34896668,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -59.9,
+      "changePreviousPercent": 15.6,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -283,6 +283,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 1957,
           "visits": 34822853
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 2262,
+          "visits": 34896668
         }
       ]
     },
@@ -293,11 +298,11 @@
       "placeId": 95168737547508,
       "universeId": 10769315427,
       "gameUrl": "https://www.roblox.com/games/95168737547508",
-      "playing": 7144,
-      "visits": 50237014,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -37.3,
-      "changePreviousPercent": -5.9,
+      "playing": 28491,
+      "visits": 50561189,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -45.0,
+      "changePreviousPercent": 298.8,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -563,6 +568,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 7144,
           "visits": 50237014
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 28491,
+          "visits": 50561189
         }
       ]
     },
@@ -573,11 +583,11 @@
       "placeId": 71335623205843,
       "universeId": 10770284142,
       "gameUrl": "https://www.roblox.com/games/71335623205843",
-      "playing": 5698,
-      "visits": 40729403,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -24.8,
-      "changePreviousPercent": 25.5,
+      "playing": 5129,
+      "visits": 41025813,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -39.5,
+      "changePreviousPercent": -10.0,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -843,6 +853,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 5698,
           "visits": 40729403
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 5129,
+          "visits": 41025813
         }
       ]
     },
@@ -853,11 +868,11 @@
       "placeId": 117734411290994,
       "universeId": 10771997908,
       "gameUrl": "https://www.roblox.com/games/117734411290994",
-      "playing": 2817,
-      "visits": 61889729,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -46.0,
-      "changePreviousPercent": -23.9,
+      "playing": 4079,
+      "visits": 62109003,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -44.8,
+      "changePreviousPercent": 44.8,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -1123,6 +1138,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 2817,
           "visits": 61889729
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 4079,
+          "visits": 62109003
         }
       ]
     },
@@ -1133,11 +1153,11 @@
       "placeId": 82146707127797,
       "universeId": 10769621465,
       "gameUrl": "https://www.roblox.com/games/82146707127797",
-      "playing": 1396,
-      "visits": 23987394,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -30.9,
-      "changePreviousPercent": -26.0,
+      "playing": 2370,
+      "visits": 24079326,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -32.1,
+      "changePreviousPercent": 69.8,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -1403,6 +1423,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 1396,
           "visits": 23987394
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 2370,
+          "visits": 24079326
         }
       ]
     },
@@ -1413,11 +1438,11 @@
       "placeId": 91673151576922,
       "universeId": 10770879065,
       "gameUrl": "https://www.roblox.com/games/91673151576922",
-      "playing": 48,
-      "visits": 22040159,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -54.3,
-      "changePreviousPercent": -32.4,
+      "playing": 99,
+      "visits": 22052619,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -42.4,
+      "changePreviousPercent": 106.2,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -1683,6 +1708,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 48,
           "visits": 22040159
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 99,
+          "visits": 22052619
         }
       ]
     },
@@ -1693,11 +1723,11 @@
       "placeId": 109440485612336,
       "universeId": 10769484703,
       "gameUrl": "https://www.roblox.com/games/109440485612336",
-      "playing": 2596,
-      "visits": 26837195,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -19.5,
-      "changePreviousPercent": 27.6,
+      "playing": 2294,
+      "visits": 26925358,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -28.4,
+      "changePreviousPercent": -11.6,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -1963,6 +1993,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 2596,
           "visits": 26837195
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 2294,
+          "visits": 26925358
         }
       ]
     },
@@ -1973,11 +2008,11 @@
       "placeId": 112232726743887,
       "universeId": 10768891670,
       "gameUrl": "https://www.roblox.com/games/112232726743887",
-      "playing": 8202,
-      "visits": 33072297,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -7.3,
-      "changePreviousPercent": 66.5,
+      "playing": 6221,
+      "visits": 33510891,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -36.4,
+      "changePreviousPercent": -24.2,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -2243,6 +2278,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 8202,
           "visits": 33072297
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 6221,
+          "visits": 33510891
         }
       ]
     },
@@ -2328,11 +2368,11 @@
       "placeId": 79726149410614,
       "universeId": 10770254650,
       "gameUrl": "https://www.roblox.com/games/79726149410614",
-      "playing": 4810,
-      "visits": 24346561,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": 5.1,
-      "changePreviousPercent": 55.9,
+      "playing": 5380,
+      "visits": 24588201,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -3.4,
+      "changePreviousPercent": 11.9,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -2598,6 +2638,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 4810,
           "visits": 24346561
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 5380,
+          "visits": 24588201
         }
       ]
     },
@@ -2608,11 +2653,11 @@
       "placeId": 119101118479978,
       "universeId": 10769835283,
       "gameUrl": "https://www.roblox.com/games/119101118479978",
-      "playing": 8970,
-      "visits": 20992653,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -26.9,
-      "changePreviousPercent": -0.1,
+      "playing": 10528,
+      "visits": 21164584,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -30.7,
+      "changePreviousPercent": 17.4,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -2878,6 +2923,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 8970,
           "visits": 20992653
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 10528,
+          "visits": 21164584
         }
       ]
     },
@@ -2888,11 +2938,11 @@
       "placeId": 70650894743738,
       "universeId": 10769957062,
       "gameUrl": "https://www.roblox.com/games/70650894743738",
-      "playing": 3132,
-      "visits": 43945789,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -45.4,
-      "changePreviousPercent": 22.5,
+      "playing": 2956,
+      "visits": 44076228,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -57.1,
+      "changePreviousPercent": -5.6,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -3158,6 +3208,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 3132,
           "visits": 43945789
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 2956,
+          "visits": 44076228
         }
       ]
     },
@@ -3168,11 +3223,11 @@
       "placeId": 83948710348121,
       "universeId": 10769808534,
       "gameUrl": "https://www.roblox.com/games/83948710348121",
-      "playing": 1043,
-      "visits": 9056322,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -12.8,
-      "changePreviousPercent": -3.8,
+      "playing": 1339,
+      "visits": 9083018,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -22.6,
+      "changePreviousPercent": 28.4,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -3438,6 +3493,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 1043,
           "visits": 9056322
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 1339,
+          "visits": 9083018
         }
       ]
     },
@@ -3448,11 +3508,11 @@
       "placeId": 81688312343760,
       "universeId": 10769420234,
       "gameUrl": "https://www.roblox.com/games/81688312343760",
-      "playing": 23235,
-      "visits": 58896283,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -6.1,
-      "changePreviousPercent": 72.0,
+      "playing": 15568,
+      "visits": 59854683,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -20.0,
+      "changePreviousPercent": -33.0,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -3718,6 +3778,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 23235,
           "visits": 58896283
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 15568,
+          "visits": 59854683
         }
       ]
     },
@@ -3728,11 +3793,11 @@
       "placeId": 127270254210112,
       "universeId": 10378493761,
       "gameUrl": "https://www.roblox.com/games/127270254210112",
-      "playing": 1423,
-      "visits": 17054307,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -36.9,
-      "changePreviousPercent": 45.2,
+      "playing": 1215,
+      "visits": 17154869,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -43.5,
+      "changePreviousPercent": -14.6,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -3998,6 +4063,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 1423,
           "visits": 17054307
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 1215,
+          "visits": 17154869
         }
       ]
     },
@@ -4008,11 +4078,11 @@
       "placeId": 125866884667103,
       "universeId": 10770628276,
       "gameUrl": "https://www.roblox.com/games/125866884667103",
-      "playing": 4032,
-      "visits": 19377105,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -15.3,
-      "changePreviousPercent": -19.1,
+      "playing": 5124,
+      "visits": 19560798,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -31.7,
+      "changePreviousPercent": 27.1,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -4278,6 +4348,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 4032,
           "visits": 19377105
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 5124,
+          "visits": 19560798
         }
       ]
     },
@@ -4288,11 +4363,11 @@
       "placeId": 113742027864370,
       "universeId": 10766468833,
       "gameUrl": "https://www.roblox.com/games/113742027864370",
-      "playing": 3480,
-      "visits": 24485527,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -49.6,
-      "changePreviousPercent": -26.2,
+      "playing": 4471,
+      "visits": 24638279,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -55.7,
+      "changePreviousPercent": 28.5,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -4558,6 +4633,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 3480,
           "visits": 24485527
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 4471,
+          "visits": 24638279
         }
       ]
     },
@@ -4568,11 +4648,11 @@
       "placeId": 76678170614451,
       "universeId": 10770466814,
       "gameUrl": "https://www.roblox.com/games/76678170614451",
-      "playing": 1590,
-      "visits": 13350551,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -41.5,
-      "changePreviousPercent": 38.6,
+      "playing": 1283,
+      "visits": 13396564,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -48.5,
+      "changePreviousPercent": -19.3,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -4838,6 +4918,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 1590,
           "visits": 13350551
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 1283,
+          "visits": 13396564
         }
       ]
     },
@@ -4848,11 +4933,11 @@
       "placeId": 92696280499166,
       "universeId": 10771800287,
       "gameUrl": "https://www.roblox.com/games/92696280499166",
-      "playing": 390,
-      "visits": 13255499,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": -58.2,
-      "changePreviousPercent": -10.1,
+      "playing": 504,
+      "visits": 13298867,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": -62.3,
+      "changePreviousPercent": 29.2,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -5118,6 +5203,11 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 390,
           "visits": 13255499
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 504,
+          "visits": 13298867
         }
       ]
     },
@@ -5128,11 +5218,11 @@
       "placeId": 139611482808453,
       "universeId": 10770197883,
       "gameUrl": "https://www.roblox.com/games/139611482808453",
-      "playing": 3131,
-      "visits": 11021857,
-      "sampledAt": "2026-11-28T01:30:23Z",
-      "change7dPercent": 62.2,
-      "changePreviousPercent": 5.3,
+      "playing": 3532,
+      "visits": 11183445,
+      "sampledAt": "2026-11-28T13:16:04Z",
+      "change7dPercent": 58.8,
+      "changePreviousPercent": 12.8,
       "history": [
         {
           "at": "2026-11-02T03:32:35Z",
@@ -5303,16 +5393,21 @@
           "at": "2026-11-28T01:30:23Z",
           "playing": 3131,
           "visits": 11021857
+        },
+        {
+          "at": "2026-11-28T13:16:04Z",
+          "playing": 3532,
+          "visits": 11183445
         }
       ]
     }
   ],
   "analysis": {
-    "headline": "19 tracked experiences checked — MOUSE leads this snapshot",
+    "headline": "19 tracked experiences checked — Steal A Pet And Ride It! leads this snapshot",
     "points": [
-      "MOUSE had 23,235 concurrent players at the latest collection time. This is an instantaneous reading, not a daily average.",
-      "Seven-day matched-snapshot leader: Make a Cartoon! (62.2% higher than a reading at roughly the same time seven days earlier). This is observational momentum, not proof of long-term retention.",
-      "Among the tracked games with matched histories, Creative & sharing averaged +27.5% across 2 games. This is not a market-wide genre growth rate.",
+      "Steal A Pet And Ride It! had 28,491 concurrent players at the latest collection time. This is an instantaneous reading, not a daily average.",
+      "Seven-day matched-snapshot leader: Make a Cartoon! (58.8% higher than a reading at roughly the same time seven days earlier). This is observational momentum, not proof of long-term retention.",
+      "Among the tracked games with matched histories, Creative & sharing averaged +11.2% across 2 games. This is not a market-wide genre growth rate.",
       "Partial update: 19 of 20 watched games returned current player counts. Missing games are excluded from today's totals.",
       "The archived ChatGPT research reports are not automatically imported. This panel uses rules applied to Roblox public API readings."
     ]
